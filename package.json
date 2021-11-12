@@ -1,9 +1,9 @@
 {
 	"dependencies": {},
-	"description": "GLAD loader code for Khronos Graphics APIs.",
+	"description": "Glad loader code for Khronos Graphics APIs.",
 	"git": "https://github.com/voltengine/glad.git",
 	"id": "voltengine/glad",
 	"keywords": [],
 	"license": "Apache-2.0",
-	"version": "2.0.0-beta+vk12.gl46.all-2021-11-11"
+	"version": "2.0.0-beta+vk12.core.loader.all-2021-11-12"
 }
