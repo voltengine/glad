@@ -5,5 +5,5 @@
 	"id": "voltengine/glad",
 	"keywords": [],
 	"license": "Apache-2.0",
-	"version": "2.0.0-beta+vk12.core.loader.all-2021-11-12"
+	"version": "2.0.0-beta+gl46-vk12-core.all-2021-12-23-no-vk-khr-synchronization2.loader"
 }
